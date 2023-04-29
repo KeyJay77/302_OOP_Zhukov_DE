@@ -1,0 +1,17 @@
+{
+    "name": "keyjay/task06_2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KeyJay77",
+            "email": "dima.zhukov.02@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
